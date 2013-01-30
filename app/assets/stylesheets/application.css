@@ -34,6 +34,10 @@
  section {
    display: block;
  }
+ section{
+  position:relative;
+  top:40px;
+ }
  audio,
  canvas,
  video {
